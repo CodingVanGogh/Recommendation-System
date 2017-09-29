@@ -1,8 +1,7 @@
-# Simple Recommendation System in Python3+ (Using Collaborative Filtering)
+## Simple Recommendation System in Python3+ (Using Collaborative Filtering)
 
 #### Installation
 - pip install recommendation_system 
-- 
 
 #### Example Usage
 ```python
