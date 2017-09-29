@@ -1,0 +1,1 @@
+from recommendation_system.recommendation_system import complete_recommendation_table
